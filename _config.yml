@@ -1,1 +1,5 @@
 remote_theme: jekyll/minima
+title: My Jekyll Site
+description: A simple Jekyll site using the Minima theme.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://weekend-warrior-uhm.github.io" # the base hostname & protocol for your site
