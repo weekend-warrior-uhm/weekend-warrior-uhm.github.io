@@ -1,6 +1,15 @@
----
-layout: home
-title: Welcome to My Site
----
-# Hello, World!
-Welcome to my Jekyll site using the Minima theme.
+# Weekend Warrior
+
+## Overview 
+Weekend Warrior is a ICS 314 Final Project to connect UH Manoa students and locals interested in weekend outdoor activities. Our platform will help people activity partners with similar interests and schedules.
+
+## Project Goals
+
+- Users can find others to join them in activities.
+- Admins make sure content safety and platform use.
+
+## Team
+
+Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
+
+Check out https://weekend-warrior-uhm.github.io/ for more!
