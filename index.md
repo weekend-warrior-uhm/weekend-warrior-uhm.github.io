@@ -11,5 +11,3 @@ Weekend Warrior is a ICS 314 Final Project to connect UH Manoa students and loca
 ## Team
 
 Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
-
-Check out https://weekend-warrior-uhm.github.io/ for more!
