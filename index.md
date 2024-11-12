@@ -1,5 +1,3 @@
-# Weekend Warrior
-
 Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
 
 [Group Contract](https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0)
