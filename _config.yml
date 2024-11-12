@@ -1,5 +1,5 @@
 remote_theme: jekyll/minima
 title: Weekend Warrior
-description: A platform for UH students to find activities for the weekend.
+description: A platform designed to help UH students find activities for the weekend.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weekend-warrior-uhm.github.io" # the base hostname & protocol for your site
