@@ -1,4 +1,3 @@
-## Overview 
 Weekend Warrior is a ICS 314 Final Project to connect UH Manoa students and locals interested in weekend outdoor activities. Our platform will help people activity partners with similar interests and schedules.
 
 ## Project Goals
