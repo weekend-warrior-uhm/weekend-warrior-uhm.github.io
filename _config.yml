@@ -1,5 +1,5 @@
 remote_theme: jekyll/minima
-title: My Jekyll Site
-description: A simple Jekyll site using the Minima theme.
+title: Weekend Warrior
+description: A platform for UH students to find activities for the weekend.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://weekend-warrior-uhm.github.io" # the base hostname & protocol for your site
