@@ -65,19 +65,19 @@ If you do not yet have an account on the system, you can register by clicking on
 -->
 
 ### Sign in
-Click on the Login link. Then click on the Signin link to bring up the Sign In page which allows you to login:
+Click on the Login link to bring up the Sign In page which allows you to log in:
 
 <img src="images/signin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Sign In Page Screenshot">
 
 
 ### User home page
-After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
+After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to activities and users:
 
 <img src="images/signin_notadmin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
 
 
 ### List Users
-Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
+Clicking on the users link brings up a page that lists all of the users associated with the logged in user:
 
 <img src="images/users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
