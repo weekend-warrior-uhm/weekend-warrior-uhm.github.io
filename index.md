@@ -129,7 +129,7 @@ It is possible to designate one or more users as “Admins” through the settin
   <!-- Fourth Person -->
   <div style="flex: 1; padding: 10px; min-width: 250px;">
     <h2>Mhar Olipani</h2>
-     <img src="images/MharOlipaniHeadShot.jpeg" alt="Mhar Olipani" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+     <img src="images/MharHeadShot.jpg" alt="Mhar Olipani" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the fourth person here.]
      <a href="https://mharolipani.github.io/">Portfolio</a>
