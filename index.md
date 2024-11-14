@@ -109,7 +109,7 @@ It is possible to designate one or more users as “Admins” through the settin
   <!-- Second Person -->
   <div style="flex: 1; padding: 10px; min-width: 250px;">
     <h2>Sean Flynn</h2>
-    <img src="images/SeanFlynnHeadShot.jpeg" alt="Sean Flynn" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+    <img src="images/SeanHeadShot.jpeg" alt="Sean Flynn" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the second person here.]
       <a href="https://seanhflynn.github.io/">Portfolio</a>.
