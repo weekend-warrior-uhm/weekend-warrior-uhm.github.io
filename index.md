@@ -81,6 +81,11 @@ Clicking on the Users link brings up a page that lists all of the users associat
 
 <img src="images/users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
+### List Activities 
+Clicking on the Activities link brings up a page that lists all activites posted by other users, along with each activity's description, location and scheduled time. Users also have the option to sign up for any activity that interests them:
+
+<img src="images/activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+
 <!-- 
 ### Add Contacts
 From the Home page or List Contacts page, the user can click the "Add Contact" link to bring up a page that allows them to enter new contact information. This page includes fields for the contact's first and last names, address, image, and description. After filling out the form, the user can save the new contact, which will then appear in the list of contacts.
