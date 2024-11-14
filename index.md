@@ -106,6 +106,7 @@ It is possible to designate one or more users as “Admins” through the settin
     <img src="./public/NigelAriasHeadShot.jpeg" alt="Nigel Arias" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the first person here.]
+      <a href="https://nwarias003.github.io/">Portfolio</a>
     </p>
   </div>
 
@@ -115,6 +116,7 @@ It is possible to designate one or more users as “Admins” through the settin
     <img src="./public/SeanFlynnHeadShot.jpeg" alt="Sean Flynn" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the second person here.]
+      <a href="https://seanhflynn.github.io/">Portfolio</a>.
     </p>
   </div>
 
@@ -124,6 +126,7 @@ It is possible to designate one or more users as “Admins” through the settin
      <img src="./public/MinJunHanHeadShot.jpeg" alt="Min Jun Han" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the third person here.]
+      <a href="https://min-808.github.io/">Portfolio</a>
     </p>
   </div>
 
@@ -133,6 +136,7 @@ It is possible to designate one or more users as “Admins” through the settin
      <img src="./public/MharOlipaniHeadShot.jpeg" alt="Mhar Olipani" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the fourth person here.]
+     <a href="https://mharolipani.github.io/">Portfolio</a>
     </p>
   </div>
 
