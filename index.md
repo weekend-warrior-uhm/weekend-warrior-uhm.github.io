@@ -11,6 +11,7 @@ Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
 - [Project Mockups](#project-mockups)
+- [Team](#team)
 
 
 ## Overview
@@ -26,17 +27,21 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 ## Milestone 1
 
 Decide on a theme, layout, and structure for the landing page
+
 - Logo
 - Background
 - Colors
-- Login/Sign out
 - Description
+- Sign up
+- Login/Sign out
+- Landing and Home pages
 
 ## Milestone 2
 
-- 
-- 
-- 
+- Activity Posts
+- Search/Browse Activities
+- Administrative Privileges
+ 
 
 ## Milestone 3
 
@@ -92,4 +97,7 @@ It is possible to designate one or more users as “Admins” through the settin
 
 <img src="doc/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
 
+## Team
 
+
+## 
