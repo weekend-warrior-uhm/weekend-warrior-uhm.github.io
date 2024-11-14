@@ -57,12 +57,12 @@ When you first bring up the application, you will see the landing page that prov
 
 <img src="images/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
-
+<!-- 
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up:”
 
 <img src="images/signup.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Register Page Screenshot">
-
+-->
 
 ### Sign in
 Click on the Login link. Then click on the Signin link to bring up the Sign In page which allows you to login:
@@ -81,7 +81,7 @@ Clicking on the List Contacts link brings up a page that lists all of the contac
 
 <img src="images/users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
-
+<!-- 
 ### Add Contacts
 From the Home page or List Contacts page, the user can click the "Add Contact" link to bring up a page that allows them to enter new contact information. This page includes fields for the contact's first and last names, address, image, and description. After filling out the form, the user can save the new contact, which will then appear in the list of contacts.
 
@@ -97,6 +97,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
 <img src="images/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
+-->
 
 ## Team
 
@@ -107,7 +108,7 @@ It is possible to designate one or more users as “Admins” through the settin
     <h2>Nigel Arias</h2>
     <img src="images/NigelAriasHeadShot.jpg" alt="Nigel Arias" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
-      [Add the description for the first person here.]
+      <!-- [Add the description for the first person here.]-->
       <a href="https://nwarias003.github.io/">Portfolio</a>
     </p>
   </div>
@@ -117,7 +118,7 @@ It is possible to designate one or more users as “Admins” through the settin
     <h2>Sean Flynn</h2>
     <img src="images/SeanHeadShot.jpg" alt="Sean Flynn" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
-      [Add the description for the second person here.]
+     <!-- [Add the description for the second person here.]-->
       <a href="https://seanhflynn.github.io/">Portfolio</a>.
     </p>
   </div>
@@ -127,7 +128,7 @@ It is possible to designate one or more users as “Admins” through the settin
     <h2>Min Jun Han</h2>
      <img src="images/MinJunHanHeadShot.png" alt="Min Jun Han" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
-      [Add the description for the third person here.]
+      <!--[Add the description for the third person here.]-->
       <a href="https://min-808.github.io/">Portfolio</a>
     </p>
   </div>
@@ -137,7 +138,7 @@ It is possible to designate one or more users as “Admins” through the settin
     <h2>Mhar Olipani</h2>
      <img src="images/MharHeadShot.jpg" alt="Mhar Olipani" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
-      [Add the description for the fourth person here.]
+      <!--[Add the description for the fourth person here.]-->
      <a href="https://mharolipani.github.io/">Portfolio</a>
     </p>
   </div>
