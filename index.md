@@ -28,9 +28,6 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 
 Decide on a theme, layout, and structure for the landing page
 
-- Logo
-- Background
-- Colors
 - Description
 - Sign up
 - Login/Sign out
@@ -39,15 +36,17 @@ Decide on a theme, layout, and structure for the landing page
 ## Milestone 2
 
 - Activity Posts
-- Search/Browse Activities
 - Administrative Privileges
- 
+- Read/Write
+- Search/Browse Activities
+- Removal of expired activities
 
 ## Milestone 3
 
-- 
-- 
-- 
+- Implement user-friendly design
+- Logo
+- Background
+- Colors
 
 
 ## Project Mockups
@@ -99,5 +98,42 @@ It is possible to designate one or more users as “Admins” through the settin
 
 ## Team
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-## 
+  <!-- First Person -->
+  <div style="flex: 1; padding: 10px; min-width: 250px;">
+    <h2>Nigel Arias</h2>
+    <img src="./public/NigelAriasHeadShot.jpeg" alt="Nigel Arias" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+    <p>
+      [Add the description for the first person here.]
+    </p>
+  </div>
+
+  <!-- Second Person -->
+  <div style="flex: 1; padding: 10px; min-width: 250px;">
+    <h2>Sean Flynn</h2>
+    <img src="./public/SeanFlynnHeadShot.jpeg" alt="Sean Flynn" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+    <p>
+      [Add the description for the second person here.]
+    </p>
+  </div>
+
+  <!-- Third Person -->
+  <div style="flex: 1; padding: 10px; min-width: 250px;">
+    <h2>Min Jun Han</h2>
+     <img src="./public/MinJunHanHeadShot.jpeg" alt="Min Jun Han" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+    <p>
+      [Add the description for the third person here.]
+    </p>
+  </div>
+
+  <!-- Fourth Person -->
+  <div style="flex: 1; padding: 10px; min-width: 250px;">
+    <h2>Mhar Olipani</h2>
+     <img src="./public/MharOlipaniHeadShot.jpeg" alt="Mhar Olipani" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+    <p>
+      [Add the description for the fourth person here.]
+    </p>
+  </div>
+
+</div>
