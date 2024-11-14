@@ -55,7 +55,7 @@ Decide on a theme, layout, and structure for the landing page
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to Weekend Warrior:
 
-<img src="doc/landing.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="doc/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up:”
@@ -70,16 +70,12 @@ Click on the Login link. Then click on the Signin link to bring up the Sign In p
 ### User home page
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
 
-<img src="doc/userpage.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
+<img src="doc/signin_notadmin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
 
-### List Contacts
+### List Users
 Clicking on the List Contacts link brings up a page that lists all of the contacts associated with the logged in user:
 
-<img src="doc/contacts.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
-
-This page also allows the user to add timestamped “notes” detailing interactions they’ve had with the Contact. For example:
-
-<img src="doc/note.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Notes Section Screenshot">
+<img src="doc/users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Add Contacts
 From the Home page or List Contacts page, the user can click the "Add Contact" link to bring up a page that allows them to enter new contact information. This page includes fields for the contact's first and last names, address, image, and description. After filling out the form, the user can save the new contact, which will then appear in the list of contacts.
@@ -103,7 +99,7 @@ It is possible to designate one or more users as “Admins” through the settin
   <!-- First Person -->
   <div style="flex: 1; padding: 10px; min-width: 250px;">
     <h2>Nigel Arias</h2>
-    <img src="./public/NigelAriasHeadShot.jpeg" alt="Nigel Arias" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+    <img src="./public/NigelAriasHeadShot.jpg" alt="Nigel Arias" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the first person here.]
       <a href="https://nwarias003.github.io/">Portfolio</a>
@@ -123,7 +119,7 @@ It is possible to designate one or more users as “Admins” through the settin
   <!-- Third Person -->
   <div style="flex: 1; padding: 10px; min-width: 250px;">
     <h2>Min Jun Han</h2>
-     <img src="./public/MinJunHanHeadShot.jpeg" alt="Min Jun Han" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+     <img src="./public/MinJunHanHeadShot.png" alt="Min Jun Han" style="max-width: 100%; height: auto; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p>
       [Add the description for the third person here.]
       <a href="https://min-808.github.io/">Portfolio</a>
