@@ -71,13 +71,13 @@ Click on the Login link to bring up the Sign In page which allows you to log in:
 
 
 ### User home page
-After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to activities and users:
+After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to Activities and Users:
 
 <img src="images/signin_notadmin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
 
 
 ### List Users
-Clicking on the users link brings up a page that lists all of the users associated with the logged in user:
+Clicking on the Users link brings up a page that lists all of the users associated with the logged in user:
 
 <img src="images/users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
