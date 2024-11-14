@@ -2,6 +2,18 @@ Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
 
 [Group Contract](https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0)
 
+
+## Table of contents
+
+- [Overview](#overview)
+- [Project Goals](#project-goals)
+- [Milestone 1](#milestone-1)
+- [Milestone 2](#milestone-2)
+- [Milestone 3](#milestone-3)
+- [Project Mockups](#project-mockups)
+
+
+## Overview
 Many UH Manoa students and locals have a hard time finding people with similar interests to join them in outdoor activities and hobbies. Whether it’s hiking, beach outings, surfing, or just hanging out, it’s not always easy to find partners or groups that align with specific plans or schedules.
 
 Weekend Warrior is a platform that allows users to post their upcoming weekend plans or desired activities and connect with others interested in joining. This app would serve as a local meetup spot for casual, activity-based connections, making it easier to find activity buddies and plan for fun weekends.
@@ -33,6 +45,7 @@ Decide on a theme, layout, and structure for the landing page
 - 
 
 
+## Project Mockups
 
 ### Landing Page
 
@@ -78,3 +91,5 @@ From the List Contacts page, the user can click the “Edit” link associated w
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
 <img src="doc/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
+
+
