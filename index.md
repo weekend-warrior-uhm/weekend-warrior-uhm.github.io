@@ -2,13 +2,9 @@ Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
 
 [Group Contract](https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0)
 
-<<<<<<< HEAD
-The Problem: Many UH Manoa students and locals have a hard time finding people with similar interests to join them in outdoor activities and hobbies. Whether it’s hiking, beach outings, surfing, or just hanging out, it’s not always easy to find partners or groups that align with specific plans or schedules.
+Many UH Manoa students and locals have a hard time finding people with similar interests to join them in outdoor activities and hobbies. Whether it’s hiking, beach outings, surfing, or just hanging out, it’s not always easy to find partners or groups that align with specific plans or schedules.
 
-The Solution: Weekend Warrior is a platform that allows users to post their upcoming weekend plans or desired activities and connect with others interested in joining. This app would serve as a local meetup spot for casual, activity-based connections, making it easier to find activity buddies and plan for fun weekends.
-=======
-Weekend Warrior is an ICS 314 Final Project to connect UH Manoa students and locals interested in weekend outdoor activities. Our platform will help people find activity partners with similar interests and schedules.
->>>>>>> e299eaa922c73f212d4f7d4faa9e6692ab16224b
+Weekend Warrior is a platform that allows users to post their upcoming weekend plans or desired activities and connect with others interested in joining. This app would serve as a local meetup spot for casual, activity-based connections, making it easier to find activity buddies and plan for fun weekends.
 
 ## Project Goals
 
