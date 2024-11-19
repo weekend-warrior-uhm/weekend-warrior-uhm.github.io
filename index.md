@@ -48,6 +48,8 @@ Decide on a theme, layout and structure for the landing page.
 - Background
 - Colors
 
+## Vercel Deployment 
+<a href="https://weekend-warrior-demo.vercel.app/">link</a>
 
 ## Project Mockups
 
