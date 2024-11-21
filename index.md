@@ -1,4 +1,4 @@
-<img src="images/WWLogo.png" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
+<img src="images/WWLogo.png" style="width: 300px; height: auto; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
 
 ## Table of contents
 
@@ -27,6 +27,7 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0">here</a> to view our group contract.
 
 ## Milestone 1
+Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
 
 Decide on a theme, layout and structure for the landing page.
 
@@ -54,7 +55,7 @@ Decide on a theme, layout and structure for the landing page.
 Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects.vercel.app//">here</a> to view Weekend Warrior deployed on Vercel.
 
 ## GitHub Repository
-Click <a href="https://github.com/weekend-warrior-uhm/weekend-warrior-code">here</a> to view the Weekend Warrior repository.
+Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
 
 ## Project Mockups
