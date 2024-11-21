@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [Project Goals](#project-goals)
+- [Group Contract](#group-contract)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
@@ -59,13 +60,12 @@ Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects
 When you first bring up the application, you will see the landing page that provides a brief introduction to Weekend Warrior:
 
 <img src="images/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
-
-<!-- 
+ 
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up:”
 
 <img src="images/signup.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Register Page Screenshot">
--->
+
 
 ### Sign in
 Click on the Login link to bring up the Sign In page which allows you to log in:
