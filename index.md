@@ -28,6 +28,9 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 ## Group Contract
 Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0">here</a> to view our group contract.
 
+## GitHub Organization 
+Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
+
 ## Milestone 1
 
 Decide on a theme, layout and structure for the landing page.
@@ -56,9 +59,6 @@ Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">h
 
 ## Vercel Deployment 
 Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects.vercel.app//">here</a> to view Weekend Warrior deployed on Vercel.
-
-## GitHub Repository
-Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
 
 ## Project Mockups
