@@ -1,4 +1,6 @@
-<img src="images/WWLogo.png" style="width: 300px; height: auto; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; padding: 20px;">
+  <img src="images/WWLogo.png" style="width: 300px; height: auto; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
+</div>
 
 ## Table of contents
 
@@ -27,7 +29,6 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0">here</a> to view our group contract.
 
 ## Milestone 1
-Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
 
 Decide on a theme, layout and structure for the landing page.
 
@@ -35,6 +36,8 @@ Decide on a theme, layout and structure for the landing page.
 - Sign up
 - Login/Sign out
 - Landing and Home pages
+
+Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
 
 ## Milestone 2
 
