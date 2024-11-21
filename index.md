@@ -7,6 +7,7 @@
 - [Overview](#overview)
 - [Project Goals](#project-goals)
 - [Group Contract](#group-contract)
+- [GitHub Orgainization](#github-orgainization)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
