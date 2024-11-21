@@ -1,4 +1,3 @@
-Nigel Arias, Sean Flynn, Min Jun Han, Mhar Olipani
 
 [Group Contract](https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0)
 
@@ -10,8 +9,9 @@ Nigel Arias, Sean Flynn, Min Jun Han, Mhar Olipani
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
+- [Vercel Deployment](#vercel-deployment)
 - [Project Mockups](#project-mockups)
-- [Team](#team)
+- [Meet The Team](#meet-the-team)
 
 
 ## Overview
@@ -49,7 +49,7 @@ Decide on a theme, layout and structure for the landing page.
 - Colors
 
 ## Vercel Deployment 
-<a href="https://weekend-warrior-demo.vercel.app/">link</a>
+Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects.vercel.app//">here</a> to view Weekend Warrior deployed on Vercel.
 
 ## Project Mockups
 
@@ -106,7 +106,7 @@ It is possible to designate one or more users as “Admins” through the settin
 <img src="images/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
 -->
 
-## Team
+## Meet The Team
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
