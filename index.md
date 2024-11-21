@@ -1,4 +1,4 @@
-<img src="images/WWLogo.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Application Logo">
+<img src="images/WWLogo.png" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
 
 ## Table of contents
 
@@ -70,7 +70,7 @@ If you do not yet have an account on the system, you can register by clicking on
 ### Sign in
 Click on the Login link to bring up the Sign In page which allows you to log in:
 
-<img src="images/signin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Sign In Page Screenshot">
+<img src="images/updated_signin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Sign In Page Screenshot">
 
 
 ### User home page
