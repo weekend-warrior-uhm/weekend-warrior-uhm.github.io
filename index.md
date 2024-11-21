@@ -1,6 +1,4 @@
-
-[Group Contract](https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0)
-
+<img src="images/WWLogo.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Application Logo">
 
 ## Table of contents
 
@@ -23,6 +21,9 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 
 - Users can create or find activities to join.
 - Admins ensure content safety and platform use.
+
+## Group Contract
+Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0">here</a> to view our group contract.
 
 ## Milestone 1
 
