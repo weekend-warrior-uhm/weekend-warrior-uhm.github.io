@@ -48,7 +48,7 @@ Decide on a theme, layout and structure for the landing page.
 - Login/Sign out
 - Landing and Home pages
 
-<img src="images/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="images/M1_project.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 
 Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
@@ -85,7 +85,7 @@ We are interested in your experience using Weekend Warrior! If you would like, p
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to Weekend Warrior:
 
-<img src="images/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="images/updated_home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
  
 ### Register
 If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up:”
@@ -102,24 +102,24 @@ Click on the Login link to bring up the Sign In page which allows you to log in:
 ### User home page
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to Activities and Users:
 
-<img src="images/signin_notadmin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
+<img src="images/updated_signin_notadmin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
 
 
 ### List Users
 Clicking on the Users link brings up a page that lists all of the users associated with the logged in user:
 
-<img src="images/users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/updated_users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### List Activities 
 Clicking on the Activities link brings up a page that lists all activites posted by other users, along with each activity's description, location and scheduled time. Users also have the option to sign up for any activity that interests them:
 
-<img src="images/activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/updated_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
-<img src="images/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
--->
+<img src="images/updated_admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
+
 
 ## Installation Instructions
 
