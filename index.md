@@ -63,7 +63,7 @@ Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">h
 Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects.vercel.app//">here</a> to view Weekend Warrior deployed on Vercel.
 
 ## Community Feedback
-We are interested in your experience using Weekend Warrior! If you would like, please take a couple of minutes to fill out the Weekend Warrior Feedback Form. It contains only five short questions and will help us understand how to improve the system.
+We are interested in your experience using Weekend Warrior! If you would like, please take a couple of minutes to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdrWeETfYEjw8oqLx-X0x7NTqaUBytmYJ4bCKiufgvyK1YpMg/viewform?usp=sf_link">Weekend Warrior Feedback Form</a>. It contains only five short questions and will help us understand how to improve the system.
 
 
 ## User Guide
