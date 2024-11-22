@@ -12,7 +12,8 @@
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
 - [Vercel Deployment](#vercel-deployment)
-- [Project Mockups](#project-mockups)
+- [Community Feedback](#community-feedback)
+- [User Guide](#user-guide)
 - [Meet The Team](#meet-the-team)
 
 
@@ -61,8 +62,11 @@ Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">h
 ## Vercel Deployment 
 Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects.vercel.app//">here</a> to view Weekend Warrior deployed on Vercel.
 
+## Community Feedback
+We are interested in your experience using Weekend Warrior! If you would like, please take a couple of minutes to fill out the Weekend Warrior Feedback Form. It contains only five short questions and will help us understand how to improve the system.
 
-## Project Mockups
+
+## User Guide
 
 ### Landing Page
 
