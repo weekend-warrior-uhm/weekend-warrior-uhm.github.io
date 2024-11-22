@@ -135,7 +135,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
     <h2>Nigel Arias</h2>
     <img src="images/NigelAriasHeadShot.jpg" alt="Nigel Arias" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p style="margin-top: 10px;">
-      <!-- [Add the description for the first person here.] -->
+      Contact info:
       <a href="https://nwarias003.github.io/">Portfolio</a>
     </p>
   </div>
@@ -145,7 +145,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
     <h2>Sean Flynn</h2>
     <img src="images/SeanHeadShot.jpg" alt="Sean Flynn" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p style="margin-top: 10px;">
-      <!-- [Add the description for the second person here.] -->
+      Contact info:
       <a href="https://seanhflynn.github.io/">Portfolio</a>
     </p>
   </div>
@@ -155,7 +155,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
     <h2>Min Jun Han</h2>
     <img src="images/MinJunHanHeadShot.png" alt="Min Jun Han" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p style="margin-top: 10px;">
-      <!-- [Add the description for the third person here.] -->
+      Contact info:
       <a href="https://min-808.github.io/">Portfolio</a>
     </p>
   </div>
@@ -165,9 +165,11 @@ From the List Contacts page, the user can click the “Edit” link associated w
     <h2>Mhar Olipani</h2>
     <img src="images/MharHeadShot.jpg" alt="Mhar Olipani" style="width: 200px; height: 250px; object-fit: cover; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
     <p style="margin-top: 10px;">
-      <!-- [Add the description for the fourth person here.] -->
+      Contact info:
       <a href="https://mharolipani.github.io/">Portfolio</a>
     </p>
   </div>
 
 </div>
+
+
