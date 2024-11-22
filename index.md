@@ -12,6 +12,7 @@
 - [Vercel Deployment](#vercel-deployment)
 - [Community Feedback](#community-feedback)
 - [User Guide](#user-guide)
+- [Installation Instructions](#instructions)
 - [Meet The Team](#meet-the-team)
 
 
@@ -110,6 +111,109 @@ It is possible to designate one or more users as “Admins” through the settin
 
 <img src="images/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
 -->
+
+## Installation Instructions
+
+First, [install PostgreSQL](https://www.postgresql.org/download/). Then create a database for the application.
+
+```
+
+$ createdb weekend-warrior
+Password: <password>
+$
+
+```
+
+Second, go to [[https://github.com/weekend-warrior-uhm/weekend-warrior-code](https://github.com/weekend-warrior-uhm/weekend-warrior-code)](https://github.com/weekend-warrior-uhm/weekend-warrior-code), and download the code. Create a new repository using the source code installed on your system.
+
+Third, cd into the directory of your local copy of the repo, and install third party libraries with:
+
+```
+
+$ npm install
+
+```
+
+Fourth, create a `.env` file from the `sample.env`. Set the `DATABASE_URL` variable to match your PostgreSQL database that you created in the first step. See the Prisma docs [Connect your database](https://www.prisma.io/docs/getting-started/setup-prisma/add-to-existing-project/relational-databases/connect-your-database-typescript-postgresql). Then run the Prisma migration `npx prisma migrate dev` to set up the PostgreSQL tables.
+
+```
+
+$ npx prisma migrate dev
+Environment variables loaded from .env
+Prisma schema loaded from prisma/schema.prisma
+Datasource "db": PostgreSQL database "<your database name>", schema "public" at "localhost:5432"
+
+Applying migration `20240708195109_init`
+
+The following migration(s) have been applied:
+
+migrations/
+└─ 20240708195109_init/
+└─ migration.sql
+
+Your database is now in sync with your schema.
+
+✔ Generated Prisma Client (v5.16.1) to ./node_modules/@prisma/client in 51ms
+
+$
+
+```
+
+Then seed the database with the `/config/settings.development.json` data using `npx prisma db seed`.
+
+```
+
+$ npx prisma db seed
+Environment variables loaded from .env
+Running seed command `ts-node --compiler-options {"module":"CommonJS"} prisma/seed.ts` ...
+Seeding the database
+Creating user: admin@foo.com with role: ADMIN
+Creating user: john@foo.com with role: USER
+
+
+🌱 The seed command has been executed.
+$
+
+```
+
+## Running the system
+
+Once the libraries are installed and the database seeded, you can run the application by invoking the "dev" script in the package.json file
+
+```
+
+$ npm run dev
+
+> nextjs-application-template-1@0.1.0 dev
+> next dev
+
+▲ Next.js 14.2.4
+
+- Local: http://localhost:3000
+- Environments: .env
+
+✓ Starting...
+✓ Ready in 1619ms
+
+```
+
+### Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in settings.development.json, or else register a new account.
+
+### ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the src/ directory with:
+
+```
+$ npm run lint
+
+> nextjs-application-template-1@0.1.0 lint
+> next lint
+
+✔ No ESLint warnings or errors
+$
+```
 
 
 <!-- 
