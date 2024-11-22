@@ -27,7 +27,7 @@ Weekend Warrior is a platform that allows users to post their upcoming weekend p
 - Admins ensure content safety and platform use.
 
 ## Group Contract
-Click [here](https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0) to view our group contract.
+Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgHivBXGg_-en4Drg/edit?tab=t.0">here</a> to view our group contract.
 
 
 ## GitHub Organization 
