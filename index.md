@@ -12,7 +12,7 @@
 - [Vercel Deployment](#vercel-deployment)
 - [Community Feedback](#community-feedback)
 - [User Guide](#user-guide)
-- [Installation Instructions](#instructions)
+- [Installation Instructions](#installation-instructions)
 - [Meet The Team](#meet-the-team)
 
 
@@ -227,8 +227,7 @@ From the Home page or List Contacts page, the user can click the "Add Contact" l
 From the List Contacts page, the user can click the “Edit” link associated with any Contact to bring up a page that allows that Contact information to be edited:
 
 <img src="images/edit.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Edit Contact Page Screenshot">
-
-
+-->
 
 ## Meet The Team
 
