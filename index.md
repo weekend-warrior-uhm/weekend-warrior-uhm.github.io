@@ -8,9 +8,7 @@
 - [Project Goals](#project-goals)
 - [Group Contract](#group-contract)
 - [GitHub Organization ](#github-organization)
-- [Milestone 1](#milestone-1)
-- [Milestone 2](#milestone-2)
-- [Milestone 3](#milestone-3)
+- [Development History](#development-history)
 - [Vercel Deployment](#vercel-deployment)
 - [Community Feedback](#community-feedback)
 - [User Guide](#user-guide)
@@ -107,6 +105,13 @@ Clicking on the Activities link brings up a page that lists all activites posted
 
 <img src="images/activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
+### Admin mode
+It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
+
+<img src="images/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
+-->
+
+
 <!-- 
 ### Add Contacts
 From the Home page or List Contacts page, the user can click the "Add Contact" link to bring up a page that allows them to enter new contact information. This page includes fields for the contact's first and last names, address, image, and description. After filling out the form, the user can save the new contact, which will then appear in the list of contacts.
@@ -119,11 +124,7 @@ From the List Contacts page, the user can click the “Edit” link associated w
 
 <img src="images/edit.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Edit Contact Page Screenshot">
 
-### Admin mode
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
 
-<img src="images/admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
--->
 
 ## Meet The Team
 
