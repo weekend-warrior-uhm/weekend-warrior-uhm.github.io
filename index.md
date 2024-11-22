@@ -48,6 +48,9 @@ Decide on a theme, layout and structure for the landing page.
 - Login/Sign out
 - Landing and Home pages
 
+<img src="images/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+
 Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
 
 ### Milestone 2
@@ -57,6 +60,8 @@ Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">h
 - Read/Write
 - Search/Browse Activities
 - Removal of expired activities
+
+<img src="images/home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
 
 Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M2 Project page.
 
