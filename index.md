@@ -33,7 +33,10 @@ Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgH
 ## GitHub Organization 
 Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
-## Milestone 1
+## Development History
+The development process for BowFolios conformed to Issue Driven Project Management practices. In a nutshell:
+
+### Milestone 1
 
 Decide on a theme, layout and structure for the landing page.
 
@@ -44,7 +47,7 @@ Decide on a theme, layout and structure for the landing page.
 
 Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M1 Project page.
 
-## Milestone 2
+### Milestone 2
 
 - Activity Posts
 - Administrative Privileges
@@ -52,7 +55,9 @@ Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">h
 - Search/Browse Activities
 - Removal of expired activities
 
-## Milestone 3
+Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/1/views/1">here</a> to view M2 Project page.
+
+### Milestone 3
 
 - Implement user-friendly design
 - Logo
