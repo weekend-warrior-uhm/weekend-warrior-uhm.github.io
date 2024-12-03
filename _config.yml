@@ -1,4 +1,5 @@
 remote_theme: jekyll/minima
+css: style.css
 title: Weekend Warrior
 description: A platform designed to help UH Manoa students find activities for the weekend.
 baseurl: "" # the subpath of your site, e.g. /blog
