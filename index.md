@@ -117,9 +117,12 @@ Clicking on the Activities link brings up a page that lists all activites posted
 <img src="images/updated_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they get access to a special NavBar link that retrieves a page listing all Contacts associated with all users:
+It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page listing all users, their associated roles, and all currently created activities. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
 
-<img src="images/updated_admin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot">
+<img src="images/updated_admin_1.1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+
+<img src="images/updated_admin_1.2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 2">
+
 
 
 ## Installation Instructions
