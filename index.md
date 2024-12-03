@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<!-- <link rel="stylesheet" href="style.css"> -->
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100%; padding: 20px;">
   <img src="images/WWLogo.png" style="width: 300px; height: auto; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); border-radius: 8px;" alt="Application Logo">
