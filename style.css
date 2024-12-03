@@ -16,8 +16,9 @@ body {
 }
 
 /* Add white background to the navbar or header */
-header {
-  background-color: white;
-  padding: 10px 0;
+header, .site-header {
+  background-color: white !important;
+  color: black !important; /* Ensure text is visible */
+  padding: 10px 0; /* Optional: add padding */
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for separation */
 }
