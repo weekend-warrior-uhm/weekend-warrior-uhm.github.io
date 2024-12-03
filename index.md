@@ -112,12 +112,12 @@ Clicking on the Users link brings up a page that lists all of the users associat
 <img src="images/updated_users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### List Activities 
-Clicking on the Activities link brings up a page that lists all activites posted by other users, along with each activity's description, location and scheduled time. Users also have the option to sign up for any activity that interests them:
+Clicking on the Activities link brings up a page that lists all activities posted by other users, along with each activity's description, location and scheduled time. Users also have the option to sign up for any activity that interests them:
 
 <img src="images/updated_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page listing all users, their associated roles, and all currently created activities. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
+It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
 
 <img src="images/updated_admin_1.1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
 
@@ -139,7 +139,7 @@ $
 
 Second, go to [[https://github.com/weekend-warrior-uhm/weekend-warrior-code](https://github.com/weekend-warrior-uhm/weekend-warrior-code)](https://github.com/weekend-warrior-uhm/weekend-warrior-code), and download the code. Create a new repository using the source code installed on your system.
 
-Third, cd into the directory of your local copy of the repo, and install third party libraries with:
+Third, cd into the directory of your local copy of the repo, and install third-party libraries with:
 
 ```
 
