@@ -129,7 +129,7 @@ Clicking on the Users link brings up a page that lists all the users in the syst
 <img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### List Activities 
-Clicking on the Activities link brings up a page that lists all activities posted by other users, along with each activity's description, location and scheduled time. Users also have the option to sign up for any activity that interests them:
+Clicking on the Activities link brings up a page that lists all activities posted by other users, along with each activity's description, location and scheduled time. Users can see the total number of registered participants for each activity and have the option to sign up, unregister or edit an activity (depending on if they are the creator of the activity):
 
 <img src="images/updated_activities_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
