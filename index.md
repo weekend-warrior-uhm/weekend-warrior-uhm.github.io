@@ -39,7 +39,7 @@ Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Week
 
 ![CI Status](https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions/workflows/ci.yml/badge.svg)
 
-Weekend Warrior uses [GitHub Actions](https://docs.github.com/en/actions) to automatically run ESLint and Playwright tests each time a commit is made to the default branch. You can see the results of all recent "workflows" at (https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions).
+Weekend Warrior uses [GitHub Actions](https://docs.github.com/en/actions) to automatically run ESLint and Playwright tests each time a commit is made to the default branch. You can see the results of all recent "workflows" at [https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions](https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions).
 
 The workflow definition file is straightforward and is located at
 [.github/workflows/ci.yml](https://github.com/weekend-warrior-uhm/weekend-warrior-code/blob/main/.github/workflows/ci.yml).
