@@ -10,6 +10,7 @@
 - [Project Goals](#project-goals)
 - [Group Contract](#group-contract)
 - [GitHub Organization ](#github-organization)
+- [Continuous Integration](#continuous-integration)
 - [Development History](#development-history)
 - [Vercel Deployment](#vercel-deployment)
 - [Community Feedback](#community-feedback)
