@@ -35,6 +35,11 @@ Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgH
 ## GitHub Organization 
 Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
 
+## Continuous Integration
+
+![CI Status](https://github.com/weekend-warrior-uhm/weekend-warrior-code/actions/workflows/ci.yml/badge.svg)
+
+
 ## Development History
 The development process for Weekend Warrior conformed to Issue Driven Project Management practices. In a nutshell:
 
