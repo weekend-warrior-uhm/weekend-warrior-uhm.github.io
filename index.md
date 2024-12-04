@@ -131,9 +131,9 @@ Clicking on the Activities link brings up a page that lists all activities poste
 ### Admin mode
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
 
-<img src="images/updated_admin_1.1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+<img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
 
-<img src="images/updated_admin_1.2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 2">
+
 
 
 
