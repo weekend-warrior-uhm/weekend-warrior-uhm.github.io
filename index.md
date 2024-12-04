@@ -86,6 +86,10 @@ Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/4/views/1">h
 - Background
 - Colors
 
+<img src="images/M2_project.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+
+Click <a href="https://github.com/orgs/weekend-warrior-uhm/projects/4/views/1">here</a> to view M3 Project page.
+
 ## Vercel Deployment 
 Click <a href="https://weekend-warrior-code-8gzzi8zhu-cystem23gmailcoms-projects.vercel.app//">here</a> to view Weekend Warrior deployed on Vercel.
 
@@ -120,7 +124,7 @@ After successfully logging in, the system takes you to your home page. It is jus
 
 
 ### List Users
-Clicking on the Users link brings up a page that lists all of the users associated with the logged in user:
+Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
 
 <img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
