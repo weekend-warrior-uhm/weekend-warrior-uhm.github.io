@@ -121,12 +121,12 @@ After successfully logging in, the system takes you to your home page. It is jus
 ### List Users
 Clicking on the Users link brings up a page that lists all of the users associated with the logged in user:
 
-<img src="images/updated_users.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### List Activities 
 Clicking on the Activities link brings up a page that lists all activities posted by other users, along with each activity's description, location and scheduled time. Users also have the option to sign up for any activity that interests them:
 
-<img src="images/updated_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/updated_activities_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
