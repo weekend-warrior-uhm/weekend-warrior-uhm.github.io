@@ -144,20 +144,20 @@ Clicking on the Registered Activities link displays a page that lists all activi
 <img src="images/registered_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Owned Activities
-Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
+Clicking on the Owned Activities link displays a page that lists all activities you have created. Each activity is shown in a card format with its description, location, date, time, duration, and total number of registered users. As the creator, you have the option to Edit/Delete the activity, view additional details by clicking Activity Info, or Unregister if needed:
 
-<img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/owned_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Edit Activity
-Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
+Clicking on the Edit/Delete button for an activity brings up the Edit Activity page, where activity creators can modify the details of their activity. This page allows users to update the activity name, description, location, date, time, duration, and a message for registered participants. Once changes are made, users can click Submit to save updates, Reset to clear changes, or Delete Activity to permanently remove the activity:
 
-<img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/edit_activity.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 
 ### Activity Info
-Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
+Clicking on the Activity Info button displays a detailed view of the selected activity. This page provides additional information, including a welcome message, the list of registered users, and a contact link to the activity organizer for any inquiries. The activity owner can post a message for participants and provide follow-up updates, which are visible only to registered users:
 
-<img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/activity_info.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
@@ -170,25 +170,14 @@ Admins are also able to edit all the currently listed activities.
 
 
 ### Contact & Support
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
+Clicking on the Contact & Support link in the footer opens a page with helpful resources for users needing assistance. The page includes a “Contact Us” section that provides an email address and phone number for support inquiries. It also features a comprehensive FAQ section addressing common questions about account creation, activity participation, managing activities, and reporting issues. Additionally, the page offers links to essential resources, including the Community Guidelines, Privacy Policy, and Terms of Service, ensuring a safe and informed user experience:
 
-<img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+<img src="images/contact_support.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
 
-Admins are also able to edit all the currently listed activities.
+### Safety Reminders
+Clicking on the Safety Reminders link in the footer brings up a page that provides essential safety guidelines for users. The page includes General Safety Tips, such as meeting in public places, informing someone about your plans, and trusting your instincts if you feel uncomfortable. It also offers Activity-Specific Tips with advice for hiking, water activities, and cycling to ensure users stay safe during their activities. Additionally, the Emergency Preparedness section emphasizes the importance of planning ahead, carrying essential items like a first aid kit, and staying informed about weather updates and local advisories. For further details, the page includes links to the Community Guidelines, Privacy Policy, and Terms of Service to help users stay informed and protected:
 
-<img src="images/admin_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
-
-### Saftey Reminders
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
-
-<img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
-
-Admins are also able to edit all the currently listed activities.
-
-<img src="images/admin_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
-
-
-
+<img src="images/safety_reminders.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
 
 
 ## Installation Instructions
