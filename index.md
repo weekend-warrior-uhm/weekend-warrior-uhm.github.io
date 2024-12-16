@@ -133,6 +133,11 @@ Clicking on the Activities link brings up a page that lists all activities poste
 
 <img src="images/updated_activities_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
+### Report Activity
+When users click the Report button on an activity card, a Report Activity form appears in a modal window. The form is pre-filled with the Activity Name and the Activity Creator for convenience. Users are required to provide a brief message describing the issue in the Report field, with a maximum limit of 500 characters. After typing their report, users can submit it by clicking Submit Report or close the form without submitting by clicking the Close button. This streamlined process ensures that users can quickly and efficiently report any concerns related to activities:
+
+<img src="images/report_activity.png.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+
 ### List Users
 Clicking on the Users link brings up a page that lists all users in the system. Each user is displayed in a card format that includes their gender, interests, and role (e.g., USER or ADMIN). This page provides an overview of the user base while keeping personal details, such as email, full name, and phone number, hidden for privacy:
 
@@ -160,13 +165,17 @@ Clicking on the Activity Info button displays a detailed view of the selected ac
 <img src="images/activity_info.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
-It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
+It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special Admin Panel, which can be found by clicking on their email in the top-right corner of the navigation bar and selecting "Admin" from the dropdown menu. This page displays two main sections: Activities and Users. The Activities section lists all currently created activities with details, including the name, description, location, date, time, duration, owner, registered users, and any messages associated with the activity. Admins can edit each activity by clicking the "Edit" link in the corresponding row. The Users section provides a table with user-specific information, such as email, username, full name, phone number, gender, interests, and role, allowing Admins to view all users in the system:
 
-<img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+<img src="images/updated_admin_3.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
 
-Admins are also able to edit all the currently listed activities.
+Admins are also able to edit and delete all the currently listed activities:
 
-<img src="images/admin_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+<img src="images/admin_activities_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+
+In addition, Admins can access the Report Panel by clicking on their email in the top-right corner of the navigation bar and selecting "Reports" from the dropdown menu. This page displays a table of all activity reports submitted by users. Each report entry includes the ID, Activity ID, Activity Name, Activity Author, and Report Text, which contains details about the issue provided by the user. This panel allows Admins to efficiently review reported activities, investigate user concerns, and take appropriate actions to resolve issues within the system:
+
+<img src="images/admin_report_panel.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
 
 
 ### Contact & Support
