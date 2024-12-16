@@ -103,12 +103,12 @@ We are interested in your experience using Weekend Warrior! If you would like, p
 
 When you first bring up the application, you will see the landing page that provides a brief introduction to Weekend Warrior:
 
-<img src="images/updated_home.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
+<img src="images/updated_home_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Landing Page Screenshot">
  
 ### Register
-If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up:”
+If you do not yet have an account on the system, you can register by clicking on “Login,” then “Sign Up.” On the Sign Up page, users can create an account by providing their email, a username, password (with confirmation), full name, phone number, gender, and interests. The interests field allows users to input activities or hobbies, separated by commas, that help personalize their profile. After filling out the form, users can click the Register button to submit their information or the Reset button to clear the form:
 
-<img src="images/signup.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Register Page Screenshot">
+<img src="images/updated_signup.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Register Page Screenshot">
 
 
 ### Sign in
@@ -116,24 +116,69 @@ Click on the Login link to bring up the Sign In page which allows you to log in:
 
 <img src="images/updated_signin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Sign In Page Screenshot">
 
+### Edit User Information
+In order to change your account's information, click on your email in the top-right corner of the navigation bar and select "Edit Info". This will bring up the Edit User Information page, where you can update your account details, including email, username, full name, phone number, gender, and interests. Once you've made your desired changes, click Save Changes to update your information or Reset to clear the form fields:
+
+<img src="images/edit_info.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+
 
 ### User home page
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to Activities and Users:
 
-<img src="images/updated_signin_notadmin.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
+<img src="images/updated_signin_notadmin_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="User Home Page Screenshot">
 
+
+### List Activities 
+Clicking on the Activities link brings up a page that lists all activities posted by users, along with each activity's description, location, scheduled time, and the total number of registered participants. Users have the option to Sign Up for activities they are interested in, Unregister from activities they have previously joined, or Report activities if necessary. Additionally, creators of an activity are provided options to Edit/Delete their own activity. At the top of the page, users can click on the Create Activity button to add a new activity to the list:
+
+<img src="images/updated_activities_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### List Users
+Clicking on the Users link brings up a page that lists all users in the system. Each user is displayed in a card format that includes their gender, interests, and role (e.g., USER or ADMIN). This page provides an overview of the user base while keeping personal details, such as email, full name, and phone number, hidden for privacy:
+
+<img src="images/updated_users_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+
+### Registered Activities
+Clicking on the Registered Activities link displays a page that lists all activities you have signed up for. Each activity is presented in a card format, showing its description, location, date, time, duration, activity owner, and the total number of registered users. You can choose to Unregister from an activity, view additional details by clicking "Activity Info", or "Report" an activity if necessary:
+
+<img src="images/registered_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+
+### Owned Activities
 Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
 
 <img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
-### List Activities 
-Clicking on the Activities link brings up a page that lists all activities posted by other users, along with each activity's description, location and scheduled time. Users can see the total number of registered participants for each activity and have the option to sign up, unregister or edit an activity (depending on if they are the creator of the activity):
+### Edit Activity
+Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
 
-<img src="images/updated_activities_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+<img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
+
+
+### Activity Info
+Clicking on the Users link brings up a page that lists all the users in the system. Each user is displayed in a card format that includes their email, full name, phone number, gender, interests, and role:
+
+<img src="images/updated_users_1.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="List Contacts Page Screenshot">
 
 ### Admin mode
+It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
+
+<img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+
+Admins are also able to edit all the currently listed activities.
+
+<img src="images/admin_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+
+
+### Contact & Support
+It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
+
+<img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+
+Admins are also able to edit all the currently listed activities.
+
+<img src="images/admin_activities.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
+
+### Saftey Reminders
 It is possible to designate one or more users as “Admins” through the settings file. When a user has the Admin role, they gain access to a special NavBar link that retrieves a page displaying all currently created activities, as well as a list of all users and their associated roles. Each activity is displayed with specific details, including its name, description, location, date, time, owner, and other relevant information:
 
 <img src="images/updated_admin_2.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;" alt="Admin Page Screenshot 1">
